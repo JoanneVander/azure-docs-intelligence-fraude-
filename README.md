@@ -1,6 +1,6 @@
 # azure-docs-intelligence-fraude
 
-O código permite que os usuários carreguem imagens de cartões de crédito, armazena essas imagens no Azure Blob Storage e usa uma função de análise (não detalhada aqui, mas presumivelmente usando um serviço de reconhecimento de formulários ou OCR) para extrair e validar as informações do cartão, exibindo os resultados na interface web.
+O código permite que os usuários carreguem imagens de cartões de crédito, armazena essas imagens no Azure Blob Storage e usa uma função de análise para extrair e validar as informações do cartão, exibindo os resultados na interface web.
 Analisar dados cartão de crédito com serviço da azure docs intelligence.
 
 Passo a passo e finalidade:
