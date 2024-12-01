@@ -41,7 +41,9 @@ Executa configure_interface() quando o script é executado diretamente (não imp
 
 Exemplo:
 1. Cartão enviado para ser analisado
+   
 ![CARTAO1](https://github.com/user-attachments/assets/e3817a7c-c889-438d-8177-c714342e43c9)
 
 2. Resultado da análise:
+   
 ![exemplo p git](https://github.com/user-attachments/assets/da7d1b40-8f70-4f30-ab67-4f9dabe7f6fe)
